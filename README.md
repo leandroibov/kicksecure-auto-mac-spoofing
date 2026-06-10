@@ -16,6 +16,7 @@ Using the user Account with Automatic MAC Spoofing Enabled!
 When logging in with the user account, ensure you are disconnected from the internet (no Ethernet cable connected, Wi-Fi off) during the login process.
 Monitor the MAC address changes using ip a every 50 seconds...
 Once you confirm the MAC address has changed, connect your Ethernet cable or Wi-Fi. The network will then see the spoofed MAC address, while your true hardware MAC remains hidden.
+
 Why this step is critical:
 The MAC changing service starts approximately 50 to 120 seconds after the session begins, depending on system performance delays. If you leave the Ethernet cable connected during boot/login, your true original MAC address will be broadcast to the network before the spoofing activates. For maximum security, your real MAC should never appear on the network.
 
