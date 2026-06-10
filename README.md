@@ -36,11 +36,11 @@ Replace mac-vendor-name with your generated address.
 
 #for vendor mac spoofing
 #/usr/bin/macchanger -A $INTERFACE
-```
 
 #for manual vendor mac spoofing
-```bash
 /usr/bin/macchanger --mac=mac-vendor-name $INTERFACE
+```
+
 Option 2: Random Vendor MACs
 To use random MACs from any manufacturer:
 You can use either -A (random vendor) or -a (specific vendor pool if supported).
