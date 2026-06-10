@@ -27,6 +27,7 @@ After installation, open the configuration file:
 sudo nano /usr/local/bin/mac-spoof-monitor.sh
 ```
 Modify only the following sections based on your desired behavior:
+
 Option 1: Manual Vendor-Specific MAC
 To use a specific fake vendor MAC (manually generated):
 Generate a fake vendor MAC using a tool like: https://github.com/leandroibov/gerador-de-enderecos-mac
