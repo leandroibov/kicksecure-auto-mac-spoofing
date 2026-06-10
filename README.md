@@ -55,8 +55,8 @@ You can use either -A (random vendor) or -a (specific vendor pool if supported).
 ```
 
 Option 3: Fully Randomized MAC (Default)
+'This is the default setting for fully randomized MAC addresses:'
 ```bash
-This is the default setting for fully randomized MAC addresses:
 /usr/bin/macchanger -r $INTERFACE
 
 #for vendor mac spoofing
