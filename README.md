@@ -1,5 +1,3 @@
-Aqui está a tradução completa e corrigida para o inglês, mantendo a formatação Markdown e ajustando a terminologia técnica para padrões de segurança (como "non-root user" em vez de "normal user" e melhorando a fluidez das instruções).# Automatic MAC Spoofing for Kicksecure
-
 ## How to Use
 
 ### On the `sysmaint` account:
