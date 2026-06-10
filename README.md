@@ -1,4 +1,5 @@
 ## How to Use
+`This script can be used on Debian, Ubuntu, Arch, and other Linux distributions.`
 
 ### On the `sysmaint` account:
 First, install `macchanger`:
